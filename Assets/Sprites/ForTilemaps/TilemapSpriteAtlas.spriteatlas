@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TilemapSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+    - {fileID: 2800000, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+    - {fileID: 2800000, guid: 4886e5a4b36369547a3f6902c64abde6, type: 3}
+    - {fileID: 2800000, guid: 3e28e3f49772d374e9a4688662f6c968, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4886e5a4b36369547a3f6902c64abde6, type: 3}
+  - {fileID: 21300000, guid: 3e28e3f49772d374e9a4688662f6c968, type: 3}
+  - {fileID: 1997928356, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -403830617, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -939682402, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -517062571, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -1367190297, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 1274714568, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -355442707, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -1641831908, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -1581490786, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 1756358779, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 1687162055, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 961149483, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 1778855503, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 1594561291, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 148479031, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -1869726811, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 693149689, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -1817117552, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 1448600868, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -418648149, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -606701342, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 1737052280, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -606971570, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -153659643, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -340771214, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -1682926320, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -1589228411, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -573050493, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -166906035, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: -1293355291, guid: ba3805bb641765f4ab674dd4c0cdc5d7, type: 3}
+  - {fileID: 823544600, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: -892657352, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: 1777296042, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: 453983468, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: 2045927108, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: -973649397, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: 299479722, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: -1942725123, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: 784543511, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: -2082978804, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: 620432982, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: 804277345, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: -674497605, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: 415850497, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: 957753963, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  - {fileID: 651464190, guid: 327ddaac368a0184081f7ec3873c122e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SPA_Ladder
+  - Spikes
+  - SPA_Rock_Grass_Water_29
+  - SPA_Rock_Grass_Water_28
+  - SPA_Rock_Grass_Water_23
+  - SPA_Rock_Grass_Water_22
+  - SPA_Rock_Grass_Water_18
+  - SPA_Rock_Grass_Water_21
+  - SPA_Rock_Grass_Water_19
+  - SPA_Rock_Grass_Water_20
+  - SPA_Rock_Grass_Water_16
+  - SPA_Rock_Grass_Water_27
+  - SPA_Rock_Grass_Water_17
+  - SPA_Rock_Grass_Water_26
+  - SPA_Rock_Grass_Water_14
+  - SPA_Rock_Grass_Water_25
+  - SPA_Rock_Grass_Water_15
+  - SPA_Rock_Grass_Water_24
+  - SPA_Rock_Grass_Water_12
+  - SPA_Rock_Grass_Water_13
+  - SPA_Rock_Grass_Water_10
+  - SPA_Rock_Grass_Water_11
+  - SPA_Rock_Grass_Water_9
+  - SPA_Rock_Grass_Water_8
+  - SPA_Rock_Grass_Water_3
+  - SPA_Rock_Grass_Water_2
+  - SPA_Rock_Grass_Water_1
+  - SPA_Rock_Grass_Water_0
+  - SPA_Rock_Grass_Water_7
+  - SPA_Rock_Grass_Water_6
+  - SPA_Rock_Grass_Water_5
+  - SPA_Rock_Grass_Water_4
+  - SPA_Background brown tint_4
+  - SPA_Background brown tint_5
+  - SPA_Background brown tint_6
+  - SPA_Background brown tint_7
+  - SPA_Background brown tint_0
+  - SPA_Background brown tint_1
+  - SPA_Background brown tint_2
+  - SPA_Background brown tint_3
+  - SPA_Background brown tint_8
+  - SPA_Background brown tint_9
+  - SPA_Background brown tint_15
+  - SPA_Background brown tint_14
+  - SPA_Background brown tint_13
+  - SPA_Background brown tint_12
+  - SPA_Background brown tint_11
+  - SPA_Background brown tint_10
+  m_RenderDataMap: {}
+  m_Tag: TilemapSpriteAtlas
+  m_IsVariant: 0
