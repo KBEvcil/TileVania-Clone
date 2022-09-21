@@ -7,6 +7,7 @@ namespace TileVania.Movement
 {
     public class Flip : MonoBehaviour
     {
+        public float Direction = 1f;
         public void FlipChar(float horizontal)
         {
             if (horizontal == 0) return;
@@ -16,6 +17,7 @@ namespace TileVania.Movement
                 -transform.localScale.x, 
                 transform.localScale.y
             );
+            Direction = signVal;
         }
     }
 }

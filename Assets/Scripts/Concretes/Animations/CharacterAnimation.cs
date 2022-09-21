@@ -32,9 +32,22 @@ namespace TileVania.Animations
             _animator.SetFloat("Vertical", vertical);
         }
 
-        public void RollAnimation(bool isRolling)
+        public void ShootAnimation(bool isShooting)
         {
-            //_animator.SetBool("IsRolling", isRolling);
+            _animator.SetBool("IsShooting", isShooting);
+            if (isShooting)
+                StartCoroutine(ShootAnimationExit());
+        }
+
+        public void DashAnimation(bool isDashing)
+        {
+            _animator.SetBool("IsDashing", isDashing);
+        }
+
+        private IEnumerator ShootAnimationExit()
+        {
+            yield return new WaitForSeconds(Time.deltaTime);
+            ShootAnimation(false);
         }
     }
 }

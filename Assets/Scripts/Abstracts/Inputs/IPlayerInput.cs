@@ -9,6 +9,8 @@ namespace TileVania.Abstracts.Inputs
         float Horizontal { get; }
         float Vertical { get; }
         bool IsJumpButtonDown { get; }
+        bool Shooted { get; }
+        bool IsDashButtonDown { get; }
     }
 }
 
